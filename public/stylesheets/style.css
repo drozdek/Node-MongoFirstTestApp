@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.goHomeClass {
+    position: absolute;
+    bottom: 100px;
+    left: 100px;    
+}
+
+div {
+    padding: 5px;
+}
+
+input {
+    display:  block;
+    margin: 5px;
+}

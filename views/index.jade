@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1= title
+
+  div 
+   a(href='/users', target='_self') Users List 
+  div 
+   a(href='/newuser', target='_self') Add New User
+  div
+    a(href='/hellouser', target='_self') Say Hello to User
+  a(href="/", class="goHomeClass") Go to index...
