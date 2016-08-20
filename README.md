@@ -4,6 +4,6 @@ Make sure that you execute below command in your node's project folder. This is 
 
 c:\NODE_PATH> mkdir db
 
-Remember to link your app with the already created folder to be used as a container of you data:
+Remember to link your app with the already created folder:
 
 c:\MONGO_DB_PATH>mongod --dbpath c:\NODE_PATH\YOUR_APP_PATH\db\
